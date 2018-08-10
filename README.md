@@ -7,5 +7,5 @@ LCMDlauncher
 All files Minecraft belong to Mojang
 Все файлы Minecraft принадлежат Mojang
 
-![Screenshot](screenshot.png)
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot.PNG)
+![Screenshot](screenshot2.PNG)
